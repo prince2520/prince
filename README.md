@@ -1,8 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://github.com/prince2520/prince/assets/68547999/8b74fd37-c818-4c60-968c-33d6a0f0b732">
 
-<br/>
-<h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">I am Full Stack Developer, currently interested in Open Source Contribution and projects.</h3>
+<br/>![Untitled design](https://github.com/prince2520/prince/assets/68547999/5c7cd475-4c04-4c3d-9146-17e12f203307)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince2520&label=Profile%20views&color=0e75b6&style=flat" alt="prince2520" /> </p>
 
@@ -11,9 +8,7 @@
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 💬 Ask me about **MERN | DSA**
-
-- 📫 How to reach me **prince2520p@gmail.com**
-
+- 
 - ⚡ Fun fact **I love watching anime**
 
 <h3 align="left">Connect with me:</h3>
