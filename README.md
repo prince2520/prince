@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" align="center"  src="https://github.com/prince2520/prince/assets/68547999/8b74fd37-c818-4c60-968c-33d6a0f0b732">
+<img align="right" alt="Coding" width="400" src="https://github.com/prince2520/prince/assets/68547999/8b74fd37-c818-4c60-968c-33d6a0f0b732">
 
 <br/>
 <h1 align="center">Hi 👋, I'm Prince</h1>
