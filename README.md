@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 💬 Ask me about **MERN | DSA**
-- 
+ 
 - ⚡ Fun fact **I love watching anime**
 
 <h3 align="left">Connect with me:</h3>
