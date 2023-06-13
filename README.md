@@ -1,4 +1,5 @@
-![Frame 2](https://github.com/prince2520/prince2520/assets/68547999/b241923b-19a7-400b-b9d9-4b3bd74e2e36)
+![Untitled design](https://github.com/prince2520/prince2520/assets/68547999/5190af01-d985-4921-be1b-04c58fb508bd)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince2520&label=Profile%20views&color=0e75b6&style=flat" alt="prince2520" /> </p>
 
 - 🔭 I’m currently working on [AnimeSuper](https://animesuper.vercel.app)
