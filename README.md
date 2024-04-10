@@ -1,4 +1,4 @@
-![Untitled design](https://github.com/prince2520/prince2520/assets/68547999/5190af01-d985-4921-be1b-04c58fb508bd)
+![Pair programming-pana](https://github.com/prince2520/prince2520/assets/68547999/5a94c7dc-1e7a-47be-aa9c-a1249d4d7ffc)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince2520&label=Profile%20views&color=0e75b6&style=flat" alt="prince2520" /> </p>
 
