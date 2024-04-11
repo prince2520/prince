@@ -29,5 +29,8 @@
 <a href="mailto:prince2520p@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
+<a href="https://linktr.ee/dev.prince" target="blank">
+  <img src="hhttps://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" />
+ </a>
 </p>
 <br />
