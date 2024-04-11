@@ -16,6 +16,7 @@
 </br>
 </br>
 
+
 <p align="center">
  <a href="https://princedeveloper.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
@@ -30,7 +31,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
 <a href="https://linktr.ee/dev.prince" target="blank">
-  <img src="hhttps://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" />
+  <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" />
  </a>
 </p>
 <br />
